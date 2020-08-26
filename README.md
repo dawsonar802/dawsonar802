@@ -21,4 +21,6 @@ More Comming soon... 🔜
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=dawsonar802&show_icons=true&theme=algolia)
 
-[//]: https://shields.io/ https://simpleicons.org/ https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
+[//]: https://shields.io/ 
+[//]: https://simpleicons.org/ 
+[//]: https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
