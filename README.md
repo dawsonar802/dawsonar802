@@ -1,5 +1,3 @@
-<a href="https://www.linkedin.com/in/andrew-dawson-6b0b1b10/"><img height="30" src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/linkedin.png?raw=true"></a>
-
 ## Hello and Welcome! 👋
 
 ### About Me 🧑
@@ -16,4 +14,4 @@ More Comming soon... 🔜
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=dawsonar802&show_icons=true&theme=algolia)
 
-
+#### You can find me on <a href="https://www.linkedin.com/in/andrew-dawson-6b0b1b10/"><img height="30" src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/linkedin.png?raw=true"></a>
