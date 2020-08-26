@@ -1,3 +1,5 @@
+## [![Andrew's Header](https://github.com/dawsonar802/dawsonar802/blob/master/Images/header.png)](https://www.linkedin.com/in/andrew-dawson-6b0b1b10/)
+
 ## Hello and Welcome! 👋
 
 ### About Me 🧑
