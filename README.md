@@ -12,10 +12,8 @@ I come from a background with past experience using, supporting, and administrat
 More Comming soon... 🔜
 
 
-
-
-
-
+### Professional Experience
+<a href="https://www.linkedin.com/in/andrew-dawson-6b0b1b10/"><img height="30" src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/linkedin.png?raw=true"></a>
 
 
 
