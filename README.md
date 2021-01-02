@@ -12,7 +12,6 @@ I come from a background with past experience using, supporting, and administrat
 
 | AZ-300 | AZ-301 | AZ-400 |
 |---|---|---|
-
 |<img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/exam-az300-600x600.png" width="300" height="300">| <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/exam-az301-600x600.png" width="300" height="300">| <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/exam-az400-600x600.png" width="300" height="300">|
 
 [Certification Verification](https://www.youracclaim.com/users/andrew-dawson.3293c284/badges)
