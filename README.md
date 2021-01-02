@@ -8,7 +8,7 @@ I come from a background with past experience using, supporting, and administrat
 ### Certifications
 | Fundamentals | Administrator | Architech | DevOps |
 |---|---|---|---|
-|<img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-fundamentals-600x600.png" width="300" height="300">| <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-administrator-associate.png" width="300" height="300">| <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-solutions-architect-expert-600x600.png" width="300" height="300">| <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-DevOps-Engineer-600x600.png" width="300" height="300">|
+|<img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-fundamentals-600x600.png" width="250" height="250">| <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-administrator-associate.png" width="250" height="250">| <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-solutions-architect-expert-600x600.png" width="250" height="250">| <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-DevOps-Engineer-600x600.png" width="250" height="250">|
 
 | AZ-300 | AZ-301 | AZ-400 |
 |---|---|---|
