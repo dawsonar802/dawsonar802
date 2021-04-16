@@ -26,7 +26,11 @@ I come from a background with past experience using, supporting, and administrat
 ![](https://img.shields.io/badge/VDI-Citrix-blue?logo=Citrix) ![](https://img.shields.io/badge/Cloud-Azure-blue?logo=Microsoft-Azure) ![](https://img.shields.io/badge/DevOps-AzDO-blue?logo=Azure-DevOps)
 
 ### Projects 📃
-More Comming soon... 🔜
+
+1. Contributor to the MS Docs for PowerShell - Azure Key Vault
+2. Development of a Hyper-V PowerShell module for doing a DR Failover of multiple hyper-v clusters and hosts along with DNS Changes
+3. Creation of a Hyper-V Information center consisting of a ```PowerShell``` Script for collecting the data, exporting as ```HTML``` fragments, and then displaying the HTML on an IIS Site using some ```css``` and ```Javascript```.  
+4. More Comming soon... 🔜
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=dawsonar802&show_icons=true&theme=algolia)
