@@ -6,10 +6,11 @@
 I come from a background with past experience using, supporting, and administrating Hyper-V, SharePoint, Citrix, amongst other technologies; however as technology evolves I am as well and have started my journey into a new realm with Cloud and DevOps.  Azure is my main platform of choice for current solutions.  I am looking forward to learning more about Azure (cloud in general), Git, GitHub, DevOps, AzDO, and more.   
 
 ### Certifications
-| Fundamentals | Administrator | Architech | DevOps |
+| Fundamentals | Associate | Expert |
 |---|---|---|---|
-|<img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-fundamentals-600x600.png" width="250" height="250"> <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/Power-Platform-fundamentals.png" width="250" height="250">| <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-administrator-associate.png" width="250" height="250">| <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-solutions-architect-expert-600x600.png" width="250" height="250">| <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-DevOps-Engineer-600x600.png" width="250" height="250">|
+|<img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-fundamentals-600x600.png" width="250" height="250"> <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/Power-Platform-fundamentals.png" width="250" height="250">| <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-administrator-associate.png" width="250" height="250">| <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-solutions-architect-expert-600x600.png" width="250" height="250"><img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-DevOps-Engineer-600x600.png" width="250" height="250">|
 
+### Exams
 | AZ-300 | AZ-301 | AZ-400 |
 |---|---|---|
 |<img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/exam-az300-600x600.png" width="250" height="250">| <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/exam-az301-600x600.png" width="250" height="250">| <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/exam-az400-600x600.png" width="250" height="250">|
