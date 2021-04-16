@@ -11,7 +11,8 @@ I come from a background with past experience using, supporting, and administrat
 |---|---|---|
 |<img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-fundamentals-600x600.png" width="250" height="250"> <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/Power-Platform-fundamentals.png" width="250" height="250">| <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-administrator-associate.png" width="250" height="250">| <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-solutions-architect-expert-600x600.png" width="250" height="250"><img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-DevOps-Engineer-600x600.png" width="250" height="250">|
 
-### Exams
+### [Exams](https://docs.microsoft.com/en-us/learn/certifications/browse/?resource_type=examination)
+
 | AZ-300 | AZ-301 | AZ-400 |
 |---|---|---|
 |<img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/exam-az300-600x600.png" width="250" height="250">| <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/exam-az301-600x600.png" width="250" height="250">| <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/exam-az400-600x600.png" width="250" height="250">|
