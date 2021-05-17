@@ -17,7 +17,7 @@ I come from a background with past experience using, supporting, and administrat
 
 #### Expert
 
-<img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-solutions-architect-expert-600x600.png" width="150" height="150"> <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-DevOps-Engineer-600x600.png" width="150" height="150
+<img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-solutions-architect-expert-600x600.png" width="150" height="150"> <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-DevOps-Engineer-600x600.png" width="150" height="150>
 
 
 ### [Exams](https://docs.microsoft.com/en-us/learn/certifications/browse/?resource_type=examination)
