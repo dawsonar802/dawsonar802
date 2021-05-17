@@ -7,6 +7,9 @@ I come from a background with past experience using, supporting, and administrat
 
 ### [Certifications](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI)
 
+#### Fundamentals
+<img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-fundamentals-600x600.png" width="250" height="250"> <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-data-fundamentals-600x600.png" width="250" height="250"> <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-ai-fundamentals-600x600.png" width="250" height="250"> <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/Power-Platform-fundamentals.png" width="250" height="250">
+
 | Fundamentals | Associate | Expert |
 |---|---|---|
 |<img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-fundamentals-600x600.png" width="250" height="250"> <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-data-fundamentals-600x600.png" width="250" height="250"> <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-ai-fundamentals-600x600.png" width="250" height="250"> <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/Power-Platform-fundamentals.png" width="250" height="250">| <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-administrator-associate.png" width="400" height="300">| <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-solutions-architect-expert-600x600.png" width="250" height="250"><img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-DevOps-Engineer-600x600.png" width="250" height="250">|
