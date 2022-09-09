@@ -12,6 +12,7 @@ I come from a background with past experience using, supporting, and administrat
 
 #### Associate
 <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-administrator-associate.png" width="150" height="150">
+<img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/hashicorp-certified-terraform-associate-002.png" width="150" height="150">
 
 #### Expert
 <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-solutions-architect-expert-600x600.png" width="150" height="150"> <img src="https://github.com/dawsonar802/dawsonar802/blob/master/Images/azure-DevOps-Engineer-600x600.png" width="150" height="150">
