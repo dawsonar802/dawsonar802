@@ -3,7 +3,7 @@
 ## Hello and Welcome! 👋
 
 ### About Me 🧑
-I come from a background with past experience using, supporting, and administrating Hyper-V, SharePoint, Citrix, amongst other technologies; however as technology evolves I am as well and have started my journey into a new realm with Cloud and DevOps.  Azure is my main platform of choice for current solutions.  I am looking forward to learning more about Azure (cloud in general), Git, GitHub, DevOps, AzDO, and more.   
+I come from a background with past experience using, supporting, and administrating Hyper-V, SharePoint, Citrix, amongst other technologies; however in my current role I am working with all things Cloud and DevOps.  Azure and Terraform is the main platform of choice for current solutions I am working on.   
 
 ### [Certifications](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI)
 
